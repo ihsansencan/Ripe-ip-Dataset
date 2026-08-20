@@ -1,6 +1,6 @@
 # 🌍 RIPE IP Dataset
 
-Dünya genelindeki ülkelerin IPv4 ve IPv6 CIDR blokları. RIPE NCC, APNIC, ARIN, LACNIC ve AFRINIC verilerinden derlenmiştir.
+Dünya genelindeki ülke/bölgelerin IPv4 ve IPv6 CIDR blokları. RIPE NCC, APNIC, ARIN, LACNIC ve AFRINIC verilerinden derlenmiştir.
 
 ---
 
@@ -8,7 +8,7 @@ Dünya genelindeki ülkelerin IPv4 ve IPv6 CIDR blokları. RIPE NCC, APNIC, ARIN
 
 | Veri | Açıklama | Dosya Sayısı |
 |------|----------|--------------|
-| **IPv4 CIDR** | Tüm dünya ülkeleri | 238 |
+| **IPv4 CIDR** | Tüm dünya ülke/bölgeleri | 238 |
 | **IPv6 CIDR** | IPv6 blokları | 110 |
 | **JSON Özet** | RIPE NCC ülkeleri | 150 |
 
