@@ -1,0 +1,32 @@
+{
+  "country": "LY",
+  "country_name": "Libya",
+  "total_blocks": 1,
+  "ipv4_blocks": 1,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 2048,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 0,
+  "total_asn_count": 0,
+  "smallest_ipv4": {
+    "network": "5.63.0.0/21",
+    "size": 2048,
+    "date": "20120611"
+  },
+  "largest_ipv4": {
+    "network": "5.63.0.0/21",
+    "size": 2048,
+    "date": "20120611"
+  },
+  "oldest_ipv4": {
+    "network": "5.63.0.0/21",
+    "size": 2048,
+    "date": "20120611"
+  },
+  "newest_ipv4": {
+    "network": "5.63.0.0/21",
+    "size": 2048,
+    "date": "20120611"
+  }
+}

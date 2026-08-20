@@ -1,0 +1,41 @@
+{
+  "country": "AG",
+  "country_name": "Antigua ve Barbuda",
+  "total_blocks": 29,
+  "ipv4_blocks": 25,
+  "ipv6_blocks": 4,
+  "total_ipv4_addresses": 183552,
+  "total_ipv6_equivalent_32s": 11,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 5,
+  "total_asn_count": 5,
+  "smallest_ipv4": {
+    "network": "91.212.88.0/24",
+    "size": 256,
+    "date": "20200610"
+  },
+  "largest_ipv4": {
+    "network": "2.153.0.0/16",
+    "size": 65536,
+    "date": "20101103"
+  },
+  "oldest_ipv4": {
+    "network": "83.243.64.0/21",
+    "size": 2048,
+    "date": "20040528"
+  },
+  "newest_ipv4": {
+    "network": "91.212.88.0/24",
+    "size": 256,
+    "date": "20200610"
+  },
+  "ipv6_cidr_list": [
+    "2001:b28::/32",
+    "2a00:11d8::/32",
+    "2a02:1e0::/29",
+    "2a03:5f80::/32"
+  ]
+}

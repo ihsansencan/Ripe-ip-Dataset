@@ -1,0 +1,51 @@
+{
+  "country": "GI",
+  "country_name": "Cebelitarık",
+  "total_blocks": 87,
+  "ipv4_blocks": 74,
+  "ipv6_blocks": 13,
+  "total_ipv4_addresses": 131840,
+  "total_ipv6_equivalent_32s": 47.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1,
+    "48": 1
+  },
+  "total_asns": 25,
+  "total_asn_count": 25,
+  "smallest_ipv4": {
+    "network": "62.192.155.0/24",
+    "size": 256,
+    "date": "20200827"
+  },
+  "largest_ipv4": {
+    "network": "85.115.128.0/19",
+    "size": 8192,
+    "date": "20050302"
+  },
+  "oldest_ipv4": {
+    "network": "147.189.164.0/22",
+    "size": 1024,
+    "date": "19910708"
+  },
+  "newest_ipv4": {
+    "network": "178.211.128.0/24",
+    "size": 256,
+    "date": "20220125"
+  },
+  "ipv6_cidr_list": [
+    "2a01:8c40::/32",
+    "2a02:638::/32",
+    "2a03:50c0::/32",
+    "2a03:c040::/32",
+    "2a03:dc40::/32",
+    "2a05:8c00::/29",
+    "2a05:b180::/29",
+    "2a05:dc80::/29",
+    "2a07:3a40::/32",
+    "2a09:82c0::/29",
+    "2a0a:8680::/29",
+    "2a10:cec0::/32",
+    "2001:67c:1728::/48"
+  ]
+}

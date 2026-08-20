@@ -1,0 +1,52 @@
+{
+  "country": "SM",
+  "country_name": "San Marino",
+  "total_blocks": 38,
+  "ipv4_blocks": 24,
+  "ipv6_blocks": 14,
+  "total_ipv4_addresses": 40704,
+  "total_ipv6_equivalent_32s": 45.0001,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1,
+    "48": 1
+  },
+  "total_asns": 13,
+  "total_asn_count": 13,
+  "smallest_ipv4": {
+    "network": "5.183.163.0/24",
+    "size": 256,
+    "date": "20250114"
+  },
+  "largest_ipv4": {
+    "network": "89.186.32.0/19",
+    "size": 8192,
+    "date": "20060418"
+  },
+  "oldest_ipv4": {
+    "network": "194.183.64.0/19",
+    "size": 8192,
+    "date": "19950712"
+  },
+  "newest_ipv4": {
+    "network": "185.125.240.0/24",
+    "size": 256,
+    "date": "20250115"
+  },
+  "ipv6_cidr_list": [
+    "2a00:55e0::/32",
+    "2a01:f600::/32",
+    "2a02:7f60::/32",
+    "2a03:8b00::/32",
+    "2a04:a340::/29",
+    "2a07:50c0::/29",
+    "2a09:2100::/29",
+    "2a0c:1e00::/29",
+    "2a0e:d340::/32",
+    "2a13:9840::/29",
+    "2001:678:28::/48",
+    "2001:67c:174::/48",
+    "2001:67c:15b8::/48",
+    "2001:67c:28d8::/48"
+  ]
+}

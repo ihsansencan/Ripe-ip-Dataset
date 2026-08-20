@@ -1,0 +1,32 @@
+{
+  "country": "MU",
+  "country_name": "Mauritius",
+  "total_blocks": 1,
+  "ipv4_blocks": 1,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 1024,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 0,
+  "total_asn_count": 0,
+  "smallest_ipv4": {
+    "network": "37.139.132.0/22",
+    "size": 1024,
+    "date": "20190529"
+  },
+  "largest_ipv4": {
+    "network": "37.139.132.0/22",
+    "size": 1024,
+    "date": "20190529"
+  },
+  "oldest_ipv4": {
+    "network": "37.139.132.0/22",
+    "size": 1024,
+    "date": "20190529"
+  },
+  "newest_ipv4": {
+    "network": "37.139.132.0/22",
+    "size": 1024,
+    "date": "20190529"
+  }
+}

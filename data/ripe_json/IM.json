@@ -1,0 +1,55 @@
+{
+  "country": "IM",
+  "country_name": "Man Adası",
+  "total_blocks": 90,
+  "ipv4_blocks": 73,
+  "ipv6_blocks": 17,
+  "total_ipv4_addresses": 134144,
+  "total_ipv6_equivalent_32s": 100.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1,
+    "48": 1
+  },
+  "total_asns": 26,
+  "total_asn_count": 26,
+  "smallest_ipv4": {
+    "network": "5.154.182.0/24",
+    "size": 256,
+    "date": "20120719"
+  },
+  "largest_ipv4": {
+    "network": "83.218.0.0/19",
+    "size": 8192,
+    "date": "20040312"
+  },
+  "oldest_ipv4": {
+    "network": "195.10.96.0/19",
+    "size": 8192,
+    "date": "19970813"
+  },
+  "newest_ipv4": {
+    "network": "212.47.57.0/24",
+    "size": 256,
+    "date": "20260622"
+  },
+  "ipv6_cidr_list": [
+    "2a00:5540::/29",
+    "2a01:6a00::/29",
+    "2a02:2318::/29",
+    "2a02:2bb8::/32",
+    "2a02:7260::/29",
+    "2a02:ff40::/29",
+    "2a03:87e0::/32",
+    "2a03:9e00::/32",
+    "2a03:d480::/32",
+    "2a04:b240::/29",
+    "2a09:53c0::/29",
+    "2a09:c040::/29",
+    "2a0a:3440::/29",
+    "2a0a:aa80::/29",
+    "2a13:9440::/29",
+    "2a13:b600::/29",
+    "2001:7f8:fb::/48"
+  ]
+}

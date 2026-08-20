@@ -1,0 +1,32 @@
+{
+  "country": "TH",
+  "country_name": "Tayland",
+  "total_blocks": 1,
+  "ipv4_blocks": 1,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 256,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 7,
+  "total_asn_count": 7,
+  "smallest_ipv4": {
+    "network": "192.88.130.0/24",
+    "size": 256,
+    "date": "19901219"
+  },
+  "largest_ipv4": {
+    "network": "192.88.130.0/24",
+    "size": 256,
+    "date": "19901219"
+  },
+  "oldest_ipv4": {
+    "network": "192.88.130.0/24",
+    "size": 256,
+    "date": "19901219"
+  },
+  "newest_ipv4": {
+    "network": "192.88.130.0/24",
+    "size": 256,
+    "date": "19901219"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "country": "JE",
+  "country_name": "Jersey",
+  "total_blocks": 59,
+  "ipv4_blocks": 48,
+  "ipv6_blocks": 11,
+  "total_ipv4_addresses": 90880,
+  "total_ipv6_equivalent_32s": 60,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 13,
+  "total_asn_count": 13,
+  "smallest_ipv4": {
+    "network": "95.172.89.0/24",
+    "size": 256,
+    "date": "20090226"
+  },
+  "largest_ipv4": {
+    "network": "87.244.64.0/18",
+    "size": 16384,
+    "date": "20050802"
+  },
+  "oldest_ipv4": {
+    "network": "212.9.0.0/19",
+    "size": 8192,
+    "date": "19980318"
+  },
+  "newest_ipv4": {
+    "network": "213.134.23.0/24",
+    "size": 256,
+    "date": "20240110"
+  },
+  "ipv6_cidr_list": [
+    "2a00:f180::/32",
+    "2a01:94a0::/32",
+    "2a01:a400::/29",
+    "2a02:c28::/29",
+    "2a03:d4c0::/32",
+    "2a07:ee40::/29",
+    "2a0b:9740::/29",
+    "2a0d:6700::/29",
+    "2a10:81c0::/32",
+    "2a11:4400::/29",
+    "2a12:8240::/29"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "country": "EU",
+  "country_name": "Bilinmiyor (EU)",
+  "total_blocks": 10,
+  "ipv4_blocks": 10,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 267520,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 404,
+  "total_asn_count": 404,
+  "smallest_ipv4": {
+    "network": "192.84.203.0/24",
+    "size": 256,
+    "date": "19901106"
+  },
+  "largest_ipv4": {
+    "network": "139.191.0.0/16",
+    "size": 65536,
+    "date": "19930125"
+  },
+  "oldest_ipv4": {
+    "network": "138.199.64.0/20",
+    "size": 4096,
+    "date": "19900523"
+  },
+  "newest_ipv4": {
+    "network": "151.175.0.0/16",
+    "size": 65536,
+    "date": "19930901"
+  }
+}

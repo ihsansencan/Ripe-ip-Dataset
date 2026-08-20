@@ -1,0 +1,40 @@
+{
+  "country": "GL",
+  "country_name": "Grönland",
+  "total_blocks": 28,
+  "ipv4_blocks": 25,
+  "ipv6_blocks": 3,
+  "total_ipv4_addresses": 34304,
+  "total_ipv6_equivalent_32s": 10,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 1,
+  "total_asn_count": 1,
+  "smallest_ipv4": {
+    "network": "46.243.151.0/24",
+    "size": 256,
+    "date": "20101228"
+  },
+  "largest_ipv4": {
+    "network": "88.83.0.0/19",
+    "size": 8192,
+    "date": "20051228"
+  },
+  "oldest_ipv4": {
+    "network": "194.177.224.0/19",
+    "size": 8192,
+    "date": "19951005"
+  },
+  "newest_ipv4": {
+    "network": "185.157.200.0/22",
+    "size": 1024,
+    "date": "20160629"
+  },
+  "ipv6_cidr_list": [
+    "2a00:1fa8::/32",
+    "2a03:fdc0::/32",
+    "2a0e:3b80::/29"
+  ]
+}

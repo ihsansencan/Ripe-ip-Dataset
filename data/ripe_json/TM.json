@@ -1,0 +1,40 @@
+{
+  "country": "TM",
+  "country_name": "Türkmenistan",
+  "total_blocks": 14,
+  "ipv4_blocks": 11,
+  "ipv6_blocks": 3,
+  "total_ipv4_addresses": 22336,
+  "total_ipv6_equivalent_32s": 16.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "48": 1
+  },
+  "total_asns": 9,
+  "total_asn_count": 9,
+  "smallest_ipv4": {
+    "network": "194.117.52.192/26",
+    "size": 64,
+    "date": "20250825"
+  },
+  "largest_ipv4": {
+    "network": "95.85.96.0/19",
+    "size": 8192,
+    "date": "20081231"
+  },
+  "oldest_ipv4": {
+    "network": "217.174.224.0/20",
+    "size": 4096,
+    "date": "20010412"
+  },
+  "newest_ipv4": {
+    "network": "194.117.52.192/26",
+    "size": 64,
+    "date": "20250825"
+  },
+  "ipv6_cidr_list": [
+    "2a05:2180::/29",
+    "2a14:340::/29",
+    "2001:7f8:165::/48"
+  ]
+}

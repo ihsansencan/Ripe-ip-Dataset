@@ -1,0 +1,53 @@
+{
+  "country": "ZA",
+  "country_name": "Güney Afrika",
+  "total_blocks": 28,
+  "ipv4_blocks": 13,
+  "ipv6_blocks": 15,
+  "total_ipv4_addresses": 11008,
+  "total_ipv6_equivalent_32s": 91.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1,
+    "48": 1
+  },
+  "total_asns": 23,
+  "total_asn_count": 23,
+  "smallest_ipv4": {
+    "network": "146.19.55.0/24",
+    "size": 256,
+    "date": "20211111"
+  },
+  "largest_ipv4": {
+    "network": "176.67.176.0/21",
+    "size": 2048,
+    "date": "20110614"
+  },
+  "oldest_ipv4": {
+    "network": "195.123.126.0/23",
+    "size": 512,
+    "date": "19970404"
+  },
+  "newest_ipv4": {
+    "network": "185.46.237.0/24",
+    "size": 256,
+    "date": "20250630"
+  },
+  "ipv6_cidr_list": [
+    "2a01:5380::/32",
+    "2a02:47c0::/32",
+    "2a05:1680::/29",
+    "2a0b:af00::/29",
+    "2a0c:2e00::/29",
+    "2a0c:4540::/29",
+    "2a0d:7100::/29",
+    "2a0d:9080::/29",
+    "2a0d:b980::/29",
+    "2a0e:3900::/32",
+    "2a0e:9a80::/29",
+    "2a12:800::/29",
+    "2a12:4900::/29",
+    "2a14:5f00::/29",
+    "2001:67c:ef8::/48"
+  ]
+}

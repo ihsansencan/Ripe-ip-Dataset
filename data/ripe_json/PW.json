@@ -1,0 +1,17 @@
+{
+  "country": "PW",
+  "country_name": "Palau",
+  "total_blocks": 1,
+  "ipv4_blocks": 0,
+  "ipv6_blocks": 1,
+  "total_ipv4_addresses": 0,
+  "total_ipv6_equivalent_32s": 0.0,
+  "ipv6_prefix_distribution": {
+    "48": 1
+  },
+  "total_asns": 1,
+  "total_asn_count": 1,
+  "ipv6_cidr_list": [
+    "2001:67c:ec8::/48"
+  ]
+}

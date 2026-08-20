@@ -1,0 +1,45 @@
+{
+  "country": "NZ",
+  "country_name": "Yeni Zelanda",
+  "total_blocks": 16,
+  "ipv4_blocks": 9,
+  "ipv6_blocks": 7,
+  "total_ipv4_addresses": 6912,
+  "total_ipv6_equivalent_32s": 25.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1,
+    "48": 1
+  },
+  "total_asns": 7,
+  "total_asn_count": 7,
+  "smallest_ipv4": {
+    "network": "159.255.146.0/24",
+    "size": 256,
+    "date": "20110927"
+  },
+  "largest_ipv4": {
+    "network": "185.17.236.0/22",
+    "size": 1024,
+    "date": "20130204"
+  },
+  "oldest_ipv4": {
+    "network": "217.61.240.0/24",
+    "size": 256,
+    "date": "20001101"
+  },
+  "newest_ipv4": {
+    "network": "185.176.132.0/24",
+    "size": 256,
+    "date": "20240112"
+  },
+  "ipv6_cidr_list": [
+    "2a03:dd40::/29",
+    "2a03:ebc0::/32",
+    "2a05:3340::/29",
+    "2a13:c680::/29",
+    "2001:678:25c::/48",
+    "2001:67c:112c::/48",
+    "2001:67c:1998::/48"
+  ]
+}

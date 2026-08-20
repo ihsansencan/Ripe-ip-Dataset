@@ -1,0 +1,40 @@
+{
+  "country": "TK",
+  "country_name": "Tokelau",
+  "total_blocks": 8,
+  "ipv4_blocks": 4,
+  "ipv6_blocks": 4,
+  "total_ipv4_addresses": 1024,
+  "total_ipv6_equivalent_32s": 0.0001,
+  "ipv6_prefix_distribution": {
+    "48": 1
+  },
+  "total_asns": 2,
+  "total_asn_count": 2,
+  "smallest_ipv4": {
+    "network": "194.0.38.0/24",
+    "size": 256,
+    "date": "20111011"
+  },
+  "largest_ipv4": {
+    "network": "194.0.38.0/24",
+    "size": 256,
+    "date": "20111011"
+  },
+  "oldest_ipv4": {
+    "network": "194.0.38.0/24",
+    "size": 256,
+    "date": "20111011"
+  },
+  "newest_ipv4": {
+    "network": "194.0.41.0/24",
+    "size": 256,
+    "date": "20111014"
+  },
+  "ipv6_cidr_list": [
+    "2001:678:50::/48",
+    "2001:678:54::/48",
+    "2001:678:58::/48",
+    "2001:678:5c::/48"
+  ]
+}

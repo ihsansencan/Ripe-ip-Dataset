@@ -1,0 +1,32 @@
+{
+  "country": "LR",
+  "country_name": "Liberya",
+  "total_blocks": 1,
+  "ipv4_blocks": 1,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 256,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 2,
+  "total_asn_count": 2,
+  "smallest_ipv4": {
+    "network": "89.207.159.0/24",
+    "size": 256,
+    "date": "20231005"
+  },
+  "largest_ipv4": {
+    "network": "89.207.159.0/24",
+    "size": 256,
+    "date": "20231005"
+  },
+  "oldest_ipv4": {
+    "network": "89.207.159.0/24",
+    "size": 256,
+    "date": "20231005"
+  },
+  "newest_ipv4": {
+    "network": "89.207.159.0/24",
+    "size": 256,
+    "date": "20231005"
+  }
+}

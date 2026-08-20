@@ -1,0 +1,32 @@
+{
+  "country": "FK",
+  "country_name": "Falkland Adaları",
+  "total_blocks": 11,
+  "ipv4_blocks": 11,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 7168,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 2,
+  "total_asn_count": 2,
+  "smallest_ipv4": {
+    "network": "80.73.218.0/24",
+    "size": 256,
+    "date": "20050207"
+  },
+  "largest_ipv4": {
+    "network": "80.73.208.0/21",
+    "size": 2048,
+    "date": "20050207"
+  },
+  "oldest_ipv4": {
+    "network": "80.73.208.0/21",
+    "size": 2048,
+    "date": "20050207"
+  },
+  "newest_ipv4": {
+    "network": "91.232.129.0/24",
+    "size": 256,
+    "date": "20191111"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "country": "VA",
+  "country_name": "Vatikan",
+  "total_blocks": 7,
+  "ipv4_blocks": 4,
+  "ipv6_blocks": 3,
+  "total_ipv4_addresses": 10752,
+  "total_ipv6_equivalent_32s": 24,
+  "ipv6_prefix_distribution": {
+    "29": 1
+  },
+  "total_asns": 4,
+  "total_asn_count": 4,
+  "smallest_ipv4": {
+    "network": "193.43.102.0/23",
+    "size": 512,
+    "date": "19950206"
+  },
+  "largest_ipv4": {
+    "network": "212.77.0.0/19",
+    "size": 8192,
+    "date": "19981030"
+  },
+  "oldest_ipv4": {
+    "network": "193.43.102.0/23",
+    "size": 512,
+    "date": "19950206"
+  },
+  "newest_ipv4": {
+    "network": "185.152.68.0/22",
+    "size": 1024,
+    "date": "20160517"
+  },
+  "ipv6_cidr_list": [
+    "2a01:b8::/29",
+    "2a04:640::/29",
+    "2a07:8100::/29"
+  ]
+}

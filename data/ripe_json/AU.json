@@ -1,0 +1,51 @@
+{
+  "country": "AU",
+  "country_name": "Avustralya",
+  "total_blocks": 95,
+  "ipv4_blocks": 82,
+  "ipv6_blocks": 13,
+  "total_ipv4_addresses": 197888,
+  "total_ipv6_equivalent_32s": 68,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "30": 1,
+    "32": 1
+  },
+  "total_asns": 41,
+  "total_asn_count": 41,
+  "smallest_ipv4": {
+    "network": "31.217.251.0/24",
+    "size": 256,
+    "date": "20210802"
+  },
+  "largest_ipv4": {
+    "network": "145.34.0.0/16",
+    "size": 65536,
+    "date": "19930901"
+  },
+  "oldest_ipv4": {
+    "network": "192.109.197.0/24",
+    "size": 256,
+    "date": "19910501"
+  },
+  "newest_ipv4": {
+    "network": "185.29.210.0/24",
+    "size": 256,
+    "date": "20241003"
+  },
+  "ipv6_cidr_list": [
+    "2001:16c0::/29",
+    "2a00:aba0::/32",
+    "2a05:ec80::/29",
+    "2a06:7f40::/29",
+    "2a07:efc0::/32",
+    "2a09:4c00::/29",
+    "2a09:7080::/29",
+    "2a11::/32",
+    "2a11:3::/32",
+    "2a11:4::/30",
+    "2a11:8080::/29",
+    "2a13:1900::/29",
+    "2a13:db00::/30"
+  ]
+}

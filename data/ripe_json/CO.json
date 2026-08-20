@@ -1,0 +1,32 @@
+{
+  "country": "CO",
+  "country_name": "Kolombiya",
+  "total_blocks": 1,
+  "ipv4_blocks": 1,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 4096,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 0,
+  "total_asn_count": 0,
+  "smallest_ipv4": {
+    "network": "147.75.112.0/20",
+    "size": 4096,
+    "date": "19910711"
+  },
+  "largest_ipv4": {
+    "network": "147.75.112.0/20",
+    "size": 4096,
+    "date": "19910711"
+  },
+  "oldest_ipv4": {
+    "network": "147.75.112.0/20",
+    "size": 4096,
+    "date": "19910711"
+  },
+  "newest_ipv4": {
+    "network": "147.75.112.0/20",
+    "size": 4096,
+    "date": "19910711"
+  }
+}

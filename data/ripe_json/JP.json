@@ -1,0 +1,46 @@
+{
+  "country": "JP",
+  "country_name": "Japonya",
+  "total_blocks": 40,
+  "ipv4_blocks": 31,
+  "ipv6_blocks": 9,
+  "total_ipv4_addresses": 32320,
+  "total_ipv6_equivalent_32s": 64.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "48": 1
+  },
+  "total_asns": 23,
+  "total_asn_count": 23,
+  "smallest_ipv4": {
+    "network": "194.117.52.128/26",
+    "size": 64,
+    "date": "20250821"
+  },
+  "largest_ipv4": {
+    "network": "160.21.64.0/20",
+    "size": 4096,
+    "date": "20260311"
+  },
+  "oldest_ipv4": {
+    "network": "168.151.54.0/24",
+    "size": 256,
+    "date": "19940404"
+  },
+  "newest_ipv4": {
+    "network": "85.8.225.0/24",
+    "size": 256,
+    "date": "20260629"
+  },
+  "ipv6_cidr_list": [
+    "2a06:40::/29",
+    "2a0f:600::/29",
+    "2a0f:6700::/29",
+    "2a12:a300::/29",
+    "2a12:f8c0::/29",
+    "2a13:fc0::/29",
+    "2a14:1f80::/29",
+    "2a14:2d40::/29",
+    "2001:7f8:164::/48"
+  ]
+}

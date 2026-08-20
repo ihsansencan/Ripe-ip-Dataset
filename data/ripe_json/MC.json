@@ -1,0 +1,43 @@
+{
+  "country": "MC",
+  "country_name": "Monako",
+  "total_blocks": 34,
+  "ipv4_blocks": 28,
+  "ipv6_blocks": 6,
+  "total_ipv4_addresses": 65792,
+  "total_ipv6_equivalent_32s": 34,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 4,
+  "total_asn_count": 4,
+  "smallest_ipv4": {
+    "network": "91.198.207.0/24",
+    "size": 256,
+    "date": "20191119"
+  },
+  "largest_ipv4": {
+    "network": "88.209.64.0/18",
+    "size": 16384,
+    "date": "20051109"
+  },
+  "oldest_ipv4": {
+    "network": "195.78.0.0/19",
+    "size": 8192,
+    "date": "19960813"
+  },
+  "newest_ipv4": {
+    "network": "185.243.3.0/24",
+    "size": 256,
+    "date": "20210224"
+  },
+  "ipv6_cidr_list": [
+    "2a01:8fe0::/32",
+    "2a06:92c0::/32",
+    "2a07:9080::/29",
+    "2a09:67c0::/29",
+    "2a0b:8000::/29",
+    "2a14:ba80::/29"
+  ]
+}

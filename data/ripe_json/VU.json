@@ -1,0 +1,37 @@
+{
+  "country": "VU",
+  "country_name": "Vanuatu",
+  "total_blocks": 2,
+  "ipv4_blocks": 1,
+  "ipv6_blocks": 1,
+  "total_ipv4_addresses": 1024,
+  "total_ipv6_equivalent_32s": 8,
+  "ipv6_prefix_distribution": {
+    "29": 1
+  },
+  "total_asns": 1,
+  "total_asn_count": 1,
+  "smallest_ipv4": {
+    "network": "194.127.164.0/22",
+    "size": 1024,
+    "date": "20180528"
+  },
+  "largest_ipv4": {
+    "network": "194.127.164.0/22",
+    "size": 1024,
+    "date": "20180528"
+  },
+  "oldest_ipv4": {
+    "network": "194.127.164.0/22",
+    "size": 1024,
+    "date": "20180528"
+  },
+  "newest_ipv4": {
+    "network": "194.127.164.0/22",
+    "size": 1024,
+    "date": "20180528"
+  },
+  "ipv6_cidr_list": [
+    "2a07:d880::/29"
+  ]
+}

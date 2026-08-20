@@ -1,0 +1,46 @@
+{
+  "country": "PA",
+  "country_name": "Panama",
+  "total_blocks": 51,
+  "ipv4_blocks": 43,
+  "ipv6_blocks": 8,
+  "total_ipv4_addresses": 477184,
+  "total_ipv6_equivalent_32s": 49.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1,
+    "48": 1
+  },
+  "total_asns": 10,
+  "total_asn_count": 10,
+  "smallest_ipv4": {
+    "network": "94.131.53.0/24",
+    "size": 256,
+    "date": "20080623"
+  },
+  "largest_ipv4": {
+    "network": "141.171.0.0/16",
+    "size": 65536,
+    "date": "19930901"
+  },
+  "oldest_ipv4": {
+    "network": "153.53.0.0/16",
+    "size": 65536,
+    "date": "19910923"
+  },
+  "newest_ipv4": {
+    "network": "186.247.0.0/20",
+    "size": 4096,
+    "date": "20250313"
+  },
+  "ipv6_cidr_list": [
+    "2a02:29b8::/32",
+    "2a05:3ac0::/29",
+    "2a06:bbc0::/29",
+    "2a09:4ac0::/29",
+    "2a09:a700::/29",
+    "2a10:9100::/29",
+    "2a13:240::/29",
+    "2001:678:7c4::/48"
+  ]
+}

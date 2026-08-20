@@ -1,0 +1,40 @@
+{
+  "country": "KR",
+  "country_name": "Güney Kore",
+  "total_blocks": 8,
+  "ipv4_blocks": 5,
+  "ipv6_blocks": 3,
+  "total_ipv4_addresses": 5632,
+  "total_ipv6_equivalent_32s": 8.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "48": 1
+  },
+  "total_asns": 28,
+  "total_asn_count": 28,
+  "smallest_ipv4": {
+    "network": "149.170.60.0/23",
+    "size": 512,
+    "date": "19910509"
+  },
+  "largest_ipv4": {
+    "network": "199.241.120.0/21",
+    "size": 2048,
+    "date": "20120727"
+  },
+  "oldest_ipv4": {
+    "network": "149.170.60.0/23",
+    "size": 512,
+    "date": "19910509"
+  },
+  "newest_ipv4": {
+    "network": "45.151.180.0/22",
+    "size": 1024,
+    "date": "20190910"
+  },
+  "ipv6_cidr_list": [
+    "2a0f:3ec0::/29",
+    "2001:678:1188::/48",
+    "2001:67c:2dd4::/48"
+  ]
+}

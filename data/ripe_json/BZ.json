@@ -1,0 +1,44 @@
+{
+  "country": "BZ",
+  "country_name": "Belize",
+  "total_blocks": 48,
+  "ipv4_blocks": 42,
+  "ipv6_blocks": 6,
+  "total_ipv4_addresses": 30464,
+  "total_ipv6_equivalent_32s": 37,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "30": 1,
+    "32": 1
+  },
+  "total_asns": 7,
+  "total_asn_count": 7,
+  "smallest_ipv4": {
+    "network": "82.115.15.0/24",
+    "size": 256,
+    "date": "20040106"
+  },
+  "largest_ipv4": {
+    "network": "153.55.176.0/20",
+    "size": 4096,
+    "date": "19910923"
+  },
+  "oldest_ipv4": {
+    "network": "153.55.176.0/20",
+    "size": 4096,
+    "date": "19910923"
+  },
+  "newest_ipv4": {
+    "network": "45.151.24.0/22",
+    "size": 1024,
+    "date": "20190909"
+  },
+  "ipv6_cidr_list": [
+    "2a05:840::/30",
+    "2a05:2ac0::/29",
+    "2a05:64c0::/29",
+    "2a07:180::/32",
+    "2a07:e00::/29",
+    "2a07:a0c0::/29"
+  ]
+}

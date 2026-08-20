@@ -1,0 +1,39 @@
+{
+  "country": "CW",
+  "country_name": "Curaçao",
+  "total_blocks": 10,
+  "ipv4_blocks": 7,
+  "ipv6_blocks": 3,
+  "total_ipv4_addresses": 12800,
+  "total_ipv6_equivalent_32s": 24,
+  "ipv6_prefix_distribution": {
+    "29": 1
+  },
+  "total_asns": 3,
+  "total_asn_count": 3,
+  "smallest_ipv4": {
+    "network": "91.194.236.0/23",
+    "size": 512,
+    "date": "20070723"
+  },
+  "largest_ipv4": {
+    "network": "81.29.0.0/20",
+    "size": 4096,
+    "date": "20020424"
+  },
+  "oldest_ipv4": {
+    "network": "194.169.132.0/22",
+    "size": 1024,
+    "date": "19960920"
+  },
+  "newest_ipv4": {
+    "network": "193.23.16.0/22",
+    "size": 1024,
+    "date": "20180907"
+  },
+  "ipv6_cidr_list": [
+    "2a07:6640::/29",
+    "2a0b:5f80::/29",
+    "2a0f:5680::/29"
+  ]
+}

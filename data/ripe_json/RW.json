@@ -1,0 +1,12 @@
+{
+  "country": "RW",
+  "country_name": "Ruanda",
+  "total_blocks": 0,
+  "ipv4_blocks": 0,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 0,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 2,
+  "total_asn_count": 2
+}

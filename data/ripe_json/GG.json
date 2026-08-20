@@ -1,0 +1,46 @@
+{
+  "country": "GG",
+  "country_name": "Guernsey",
+  "total_blocks": 68,
+  "ipv4_blocks": 59,
+  "ipv6_blocks": 9,
+  "total_ipv4_addresses": 83712,
+  "total_ipv6_equivalent_32s": 44,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 12,
+  "total_asn_count": 12,
+  "smallest_ipv4": {
+    "network": "46.102.107.0/24",
+    "size": 256,
+    "date": "20100625"
+  },
+  "largest_ipv4": {
+    "network": "62.68.160.0/19",
+    "size": 8192,
+    "date": "20020829"
+  },
+  "oldest_ipv4": {
+    "network": "195.226.128.0/19",
+    "size": 8192,
+    "date": "19961230"
+  },
+  "newest_ipv4": {
+    "network": "185.85.253.0/24",
+    "size": 256,
+    "date": "20210126"
+  },
+  "ipv6_cidr_list": [
+    "2a00:8300::/32",
+    "2a01:b00::/29",
+    "2a01:5480::/32",
+    "2a02:7380::/32",
+    "2a03:7aa0::/32",
+    "2a04:6b40::/29",
+    "2a07:2fc0::/29",
+    "2a07:b140::/29",
+    "2a09:5d40::/29"
+  ]
+}

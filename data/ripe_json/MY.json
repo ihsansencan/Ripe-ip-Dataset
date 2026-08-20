@@ -1,0 +1,37 @@
+{
+  "country": "MY",
+  "country_name": "Malezya",
+  "total_blocks": 5,
+  "ipv4_blocks": 4,
+  "ipv6_blocks": 1,
+  "total_ipv4_addresses": 2816,
+  "total_ipv6_equivalent_32s": 8,
+  "ipv6_prefix_distribution": {
+    "29": 1
+  },
+  "total_asns": 12,
+  "total_asn_count": 12,
+  "smallest_ipv4": {
+    "network": "91.218.183.0/24",
+    "size": 256,
+    "date": "20100729"
+  },
+  "largest_ipv4": {
+    "network": "153.76.232.0/21",
+    "size": 2048,
+    "date": "19910923"
+  },
+  "oldest_ipv4": {
+    "network": "147.189.161.0/24",
+    "size": 256,
+    "date": "19910708"
+  },
+  "newest_ipv4": {
+    "network": "91.218.183.0/24",
+    "size": 256,
+    "date": "20100729"
+  },
+  "ipv6_cidr_list": [
+    "2a01:a40::/29"
+  ]
+}

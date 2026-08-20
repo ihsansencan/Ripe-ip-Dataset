@@ -1,0 +1,52 @@
+{
+  "country": "BH",
+  "country_name": "Bahreyn",
+  "total_blocks": 76,
+  "ipv4_blocks": 61,
+  "ipv6_blocks": 15,
+  "total_ipv4_addresses": 414976,
+  "total_ipv6_equivalent_32s": 92,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 24,
+  "total_asn_count": 24,
+  "smallest_ipv4": {
+    "network": "31.217.249.0/24",
+    "size": 256,
+    "date": "20210730"
+  },
+  "largest_ipv4": {
+    "network": "37.131.0.0/17",
+    "size": 32768,
+    "date": "20120221"
+  },
+  "oldest_ipv4": {
+    "network": "143.223.179.0/24",
+    "size": 256,
+    "date": "19900630"
+  },
+  "newest_ipv4": {
+    "network": "31.217.249.0/24",
+    "size": 256,
+    "date": "20210730"
+  },
+  "ipv6_cidr_list": [
+    "2001:1a40::/29",
+    "2a00:6600::/29",
+    "2a00:dde0::/32",
+    "2a01:4600::/32",
+    "2a01:4900::/29",
+    "2a01:5d80::/32",
+    "2a01:e9c0::/29",
+    "2a02:2578::/32",
+    "2a02:c3c0::/29",
+    "2a02:c400::/29",
+    "2a02:d080::/29",
+    "2a03:1c00::/29",
+    "2a04:8ac0::/29",
+    "2a0e:6700::/29",
+    "2a14:7180::/29"
+  ]
+}

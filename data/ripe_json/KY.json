@@ -1,0 +1,32 @@
+{
+  "country": "KY",
+  "country_name": "Cayman Adaları",
+  "total_blocks": 10,
+  "ipv4_blocks": 10,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 41728,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 2,
+  "total_asn_count": 2,
+  "smallest_ipv4": {
+    "network": "89.47.52.0/24",
+    "size": 256,
+    "date": "20051129"
+  },
+  "largest_ipv4": {
+    "network": "148.51.0.0/17",
+    "size": 32768,
+    "date": "19910313"
+  },
+  "oldest_ipv4": {
+    "network": "148.51.0.0/17",
+    "size": 32768,
+    "date": "19910313"
+  },
+  "newest_ipv4": {
+    "network": "91.202.211.0/24",
+    "size": 256,
+    "date": "20220112"
+  }
+}

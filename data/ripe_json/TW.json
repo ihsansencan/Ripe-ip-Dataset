@@ -1,0 +1,42 @@
+{
+  "country": "TW",
+  "country_name": "Tayvan",
+  "total_blocks": 8,
+  "ipv4_blocks": 3,
+  "ipv6_blocks": 5,
+  "total_ipv4_addresses": 5632,
+  "total_ipv6_equivalent_32s": 16.0,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "48": 1
+  },
+  "total_asns": 61,
+  "total_asn_count": 61,
+  "smallest_ipv4": {
+    "network": "103.156.184.0/23",
+    "size": 512,
+    "date": "20200929"
+  },
+  "largest_ipv4": {
+    "network": "188.68.64.0/20",
+    "size": 4096,
+    "date": "20090825"
+  },
+  "oldest_ipv4": {
+    "network": "188.68.64.0/20",
+    "size": 4096,
+    "date": "20090825"
+  },
+  "newest_ipv4": {
+    "network": "103.156.184.0/23",
+    "size": 512,
+    "date": "20200929"
+  },
+  "ipv6_cidr_list": [
+    "2a0a:f480::/29",
+    "2a13:2200::/29",
+    "2001:67c:f34::/48",
+    "2001:67c:2800::/48",
+    "2001:67c:2be8::/48"
+  ]
+}

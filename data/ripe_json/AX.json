@@ -1,0 +1,39 @@
+{
+  "country": "AX",
+  "country_name": "Åland Adaları",
+  "total_blocks": 5,
+  "ipv4_blocks": 3,
+  "ipv6_blocks": 2,
+  "total_ipv4_addresses": 4864,
+  "total_ipv6_equivalent_32s": 9,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 1,
+  "total_asn_count": 1,
+  "smallest_ipv4": {
+    "network": "91.210.154.0/24",
+    "size": 256,
+    "date": "20200625"
+  },
+  "largest_ipv4": {
+    "network": "217.29.224.0/20",
+    "size": 4096,
+    "date": "20061106"
+  },
+  "oldest_ipv4": {
+    "network": "217.29.224.0/20",
+    "size": 4096,
+    "date": "20061106"
+  },
+  "newest_ipv4": {
+    "network": "91.210.154.0/24",
+    "size": 256,
+    "date": "20200625"
+  },
+  "ipv6_cidr_list": [
+    "2a04:e100::/29",
+    "2a0d:79c0::/32"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "country": "BM",
+  "country_name": "Bermuda",
+  "total_blocks": 3,
+  "ipv4_blocks": 2,
+  "ipv6_blocks": 1,
+  "total_ipv4_addresses": 3072,
+  "total_ipv6_equivalent_32s": 1,
+  "ipv6_prefix_distribution": {
+    "32": 1
+  },
+  "total_asns": 1,
+  "total_asn_count": 1,
+  "smallest_ipv4": {
+    "network": "185.198.104.0/22",
+    "size": 1024,
+    "date": "20170407"
+  },
+  "largest_ipv4": {
+    "network": "31.47.88.0/21",
+    "size": 2048,
+    "date": "20110321"
+  },
+  "oldest_ipv4": {
+    "network": "31.47.88.0/21",
+    "size": 2048,
+    "date": "20110321"
+  },
+  "newest_ipv4": {
+    "network": "185.198.104.0/22",
+    "size": 1024,
+    "date": "20170407"
+  },
+  "ipv6_cidr_list": [
+    "2a0a:1a40::/32"
+  ]
+}

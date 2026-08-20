@@ -1,0 +1,32 @@
+{
+  "country": "MZ",
+  "country_name": "Mozambik",
+  "total_blocks": 1,
+  "ipv4_blocks": 1,
+  "ipv6_blocks": 0,
+  "total_ipv4_addresses": 1024,
+  "total_ipv6_equivalent_32s": 0,
+  "ipv6_prefix_distribution": {},
+  "total_asns": 2,
+  "total_asn_count": 2,
+  "smallest_ipv4": {
+    "network": "195.140.248.0/22",
+    "size": 1024,
+    "date": "20031003"
+  },
+  "largest_ipv4": {
+    "network": "195.140.248.0/22",
+    "size": 1024,
+    "date": "20031003"
+  },
+  "oldest_ipv4": {
+    "network": "195.140.248.0/22",
+    "size": 1024,
+    "date": "20031003"
+  },
+  "newest_ipv4": {
+    "network": "195.140.248.0/22",
+    "size": 1024,
+    "date": "20031003"
+  }
+}

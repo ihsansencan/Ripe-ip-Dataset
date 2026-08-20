@@ -1,0 +1,41 @@
+{
+  "country": "FO",
+  "country_name": "Faroe Adaları",
+  "total_blocks": 18,
+  "ipv4_blocks": 14,
+  "ipv6_blocks": 4,
+  "total_ipv4_addresses": 45056,
+  "total_ipv6_equivalent_32s": 25,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 6,
+  "total_asn_count": 6,
+  "smallest_ipv4": {
+    "network": "185.74.208.0/22",
+    "size": 1024,
+    "date": "20141024"
+  },
+  "largest_ipv4": {
+    "network": "88.85.32.0/19",
+    "size": 8192,
+    "date": "20060130"
+  },
+  "oldest_ipv4": {
+    "network": "198.137.136.0/22",
+    "size": 1024,
+    "date": "19930506"
+  },
+  "newest_ipv4": {
+    "network": "195.80.36.0/22",
+    "size": 1024,
+    "date": "20190325"
+  },
+  "ipv6_cidr_list": [
+    "2a02:e90::/29",
+    "2a03:ee00::/32",
+    "2a0a:d500::/29",
+    "2a0f:38c0::/29"
+  ]
+}

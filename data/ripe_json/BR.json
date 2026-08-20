@@ -1,0 +1,38 @@
+{
+  "country": "BR",
+  "country_name": "Brezilya",
+  "total_blocks": 8,
+  "ipv4_blocks": 6,
+  "ipv6_blocks": 2,
+  "total_ipv4_addresses": 3072,
+  "total_ipv6_equivalent_32s": 16,
+  "ipv6_prefix_distribution": {
+    "29": 1
+  },
+  "total_asns": 45,
+  "total_asn_count": 45,
+  "smallest_ipv4": {
+    "network": "212.47.35.0/24",
+    "size": 256,
+    "date": "20260120"
+  },
+  "largest_ipv4": {
+    "network": "93.158.236.0/22",
+    "size": 1024,
+    "date": "20080530"
+  },
+  "oldest_ipv4": {
+    "network": "192.112.151.0/24",
+    "size": 256,
+    "date": "19910905"
+  },
+  "newest_ipv4": {
+    "network": "212.47.35.0/24",
+    "size": 256,
+    "date": "20260120"
+  },
+  "ipv6_cidr_list": [
+    "2a00:aee0::/29",
+    "2a06:b700::/29"
+  ]
+}

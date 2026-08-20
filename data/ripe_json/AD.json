@@ -1,0 +1,39 @@
+{
+  "country": "AD",
+  "country_name": "Andorra",
+  "total_blocks": 30,
+  "ipv4_blocks": 28,
+  "ipv6_blocks": 2,
+  "total_ipv4_addresses": 62720,
+  "total_ipv6_equivalent_32s": 10,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "31": 1
+  },
+  "total_asns": 4,
+  "total_asn_count": 4,
+  "smallest_ipv4": {
+    "network": "85.8.222.0/24",
+    "size": 256,
+    "date": "20260626"
+  },
+  "largest_ipv4": {
+    "network": "46.172.224.0/19",
+    "size": 8192,
+    "date": "20110104"
+  },
+  "oldest_ipv4": {
+    "network": "158.94.220.0/23",
+    "size": 512,
+    "date": "19920220"
+  },
+  "newest_ipv4": {
+    "network": "85.8.222.0/24",
+    "size": 256,
+    "date": "20260626"
+  },
+  "ipv6_cidr_list": [
+    "2a01:fb00::/29",
+    "2a02:8060::/31"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "country": "YE",
+  "country_name": "Yemen",
+  "total_blocks": 36,
+  "ipv4_blocks": 30,
+  "ipv6_blocks": 6,
+  "total_ipv4_addresses": 233472,
+  "total_ipv6_equivalent_32s": 48,
+  "ipv6_prefix_distribution": {
+    "29": 1
+  },
+  "total_asns": 6,
+  "total_asn_count": 6,
+  "smallest_ipv4": {
+    "network": "185.11.8.0/22",
+    "size": 1024,
+    "date": "20121123"
+  },
+  "largest_ipv4": {
+    "network": "134.35.0.0/16",
+    "size": 65536,
+    "date": "19890424"
+  },
+  "oldest_ipv4": {
+    "network": "134.35.0.0/16",
+    "size": 65536,
+    "date": "19890424"
+  },
+  "newest_ipv4": {
+    "network": "185.240.64.0/22",
+    "size": 1024,
+    "date": "20180109"
+  },
+  "ipv6_cidr_list": [
+    "2a02:2718::/29",
+    "2a02:e280::/29",
+    "2a05:3380::/29",
+    "2a05:7a40::/29",
+    "2a05:7d80::/29",
+    "2a07:fd40::/29"
+  ]
+}

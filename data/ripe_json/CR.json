@@ -1,0 +1,37 @@
+{
+  "country": "CR",
+  "country_name": "Kosta Rika",
+  "total_blocks": 4,
+  "ipv4_blocks": 3,
+  "ipv6_blocks": 1,
+  "total_ipv4_addresses": 1536,
+  "total_ipv6_equivalent_32s": 1,
+  "ipv6_prefix_distribution": {
+    "32": 1
+  },
+  "total_asns": 2,
+  "total_asn_count": 2,
+  "smallest_ipv4": {
+    "network": "138.226.212.0/23",
+    "size": 512,
+    "date": "19930901"
+  },
+  "largest_ipv4": {
+    "network": "138.226.212.0/23",
+    "size": 512,
+    "date": "19930901"
+  },
+  "oldest_ipv4": {
+    "network": "139.100.96.0/23",
+    "size": 512,
+    "date": "19900215"
+  },
+  "newest_ipv4": {
+    "network": "138.226.212.0/23",
+    "size": 512,
+    "date": "19930901"
+  },
+  "ipv6_cidr_list": [
+    "2a05:c0::/32"
+  ]
+}

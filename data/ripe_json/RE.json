@@ -1,0 +1,39 @@
+{
+  "country": "RE",
+  "country_name": "Réunion",
+  "total_blocks": 11,
+  "ipv4_blocks": 9,
+  "ipv6_blocks": 2,
+  "total_ipv4_addresses": 52480,
+  "total_ipv6_equivalent_32s": 9,
+  "ipv6_prefix_distribution": {
+    "29": 1,
+    "32": 1
+  },
+  "total_asns": 2,
+  "total_asn_count": 2,
+  "smallest_ipv4": {
+    "network": "193.56.203.0/24",
+    "size": 256,
+    "date": "19940221"
+  },
+  "largest_ipv4": {
+    "network": "109.122.128.0/18",
+    "size": 16384,
+    "date": "20091001"
+  },
+  "oldest_ipv4": {
+    "network": "193.56.203.0/24",
+    "size": 256,
+    "date": "19940221"
+  },
+  "newest_ipv4": {
+    "network": "185.165.32.0/22",
+    "size": 1024,
+    "date": "20160824"
+  },
+  "ipv6_cidr_list": [
+    "2a00:a080::/32",
+    "2a0b:dc00::/29"
+  ]
+}
